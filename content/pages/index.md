@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/avatar4.svg
+      url: /images/hero3.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
